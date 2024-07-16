@@ -1,5 +1,7 @@
 # Ứng dụng trực quan hóa dữ liệu bằng Dashboard để phân tích dữ liệu.
 
+6/2024
+
 Nội dung: Phân tích thị trường bán xe ô tô Việt Nam đầu năm 2023
 
 Hình thức: làm nhóm 5 thành viên
